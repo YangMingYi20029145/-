@@ -1,3 +1,4 @@
+A.觀念題與簡答題
 1.bandwith與bps[相關題] 
   1.Bandwidth中文譯名為頻寬
   2.Bandwidth計數單位為bps(bit per second)
@@ -46,8 +47,27 @@
   1.Search Engine Optimization；簡稱SEO
   2.搜尋引擎最佳化
   3.認可網站架構，並增加網站在搜尋引擎的排名
-  
-  
+B.問達與申論題
+  1.解釋conmmunication protcol(簡稱protocol)?
+    Ans:電腦間互相通訊且受共同認定的協議標準
+  2.Why Layering?(為何要分層)?
+    Ans:分層結構中，每層都有自己所承擔的任務，而且每個分層都是建立在前一層的基礎
+  3.列出OSI Model與TCP/IP protocol對應圖
+      第1層 實體層（Physical Layer）
+      功能:數據機、無線電、光纖
+      第2層 資料連結層（Data Link Layer）
+      功能:乙太網、無線區域網路
+      第3層 網路層（Network Layer）
+      功能:網際網路協定（IP）
+      第4層 傳輸層（Transport Layer）
+      功能:傳輸控制協定（TCP）
+      第5層 會議層（Session Layer）
+      功能:密碼驗證協定
+      第6層 表達層（Presentation Layer）
+      功能:把數據轉換為能與接收者的系統格式相容並適合傳輸的格式
+      第7層 應用層（Application Layer）
+      功能:應用軟體而設計的介面，以設定與另一應用軟體之間的通訊
+      
   
   
   
